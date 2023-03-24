@@ -18,3 +18,9 @@ Creating webpages that allow for all individuals to properly interact with the p
 
 The use of flexboxes was impertivite in ensuring proper allignment on the webpage no matter the size of the screen. This allowed all the navigation links to maintain their uses and not get lost visually.
 
+
+## Sources ##
+
+This code was based on code given to and created by the Bootcamp staff.
+Collaboration took place between myself and Kara Anderson.
+
