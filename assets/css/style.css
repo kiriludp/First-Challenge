@@ -114,18 +114,13 @@ aside img {
 }
 
 .hero {
-    display:flexbox;
+    display:flex;
     position:relative;
-    height: 800px;
+    height: 640px;
     width: 100%;
     margin-bottom:30px;
 }
 
-.hero img {
-    display: flex;
-    height: 1000px;
-    width: 100%;
-}
 
 footer {
     padding: 30px;
